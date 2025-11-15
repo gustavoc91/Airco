@@ -1,0 +1,48 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #222;
+    background: #f7f7f7;
+}
+
+header {
+    background: #ffffff;
+    padding: 60px 20px;
+    text-align: center;
+    border-bottom: 1px solid #eee;
+}
+
+.logo {
+    width: 260px;
+    margin-bottom: 20px;
+}
+
+.services, .contact {
+    padding: 40px 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+h2 {
+    border-left: 4px solid #000;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #fff;
+    border-top: 1px solid #eee;
+    margin-top: 40px;
+}
